@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyanshsharma555
 - 👀 I’m interested in Web Development and MYSQL
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning WEB3
 - 💞️ I’m looking to collaborate on Hackathon Projects
 - 📫 How to reach me Student on PIET
 - 😄 Pronouns: Developer/Debugger

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and MYSQL
 - 🌱 I’m currently learning WEB3
 - 💞️ I’m looking to collaborate on Hackathon Projects
-- 📫 How to reach me Student at POORNIMA INSTITUTE OF ENGINEERING AND TECHNOLOGY
+- 📫 How to reach me Student at Poornima Institute Of Engineering And Technology
 - 😄 Pronouns: Developer/Debugger
 - ⚡ Fun fact: I will do which I will
 
